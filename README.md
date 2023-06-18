@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @21-aakash
-- 👀 I’m interested in : C++/ DSA / HTML / CSS / JAVASCRIPT 
-- 🌱 I’m currently learning : C++/ DSA
-- 💞️ I’m looking to collaborate on:  Competitive Coding problems 
+- 👀 I’m interested in :frontend/js/react/fastn/cpp dev
+- 🌱 I’m currently learning :react/data strcutures in c++
+- 💞️ I’m looking to collaborate on: open source projects / competitive coding
 - 📫 How to reach me : tembhareaakash@gmail.com
 
 <!---
