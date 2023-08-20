@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aakash Tembhare</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=21-aakash" alt="21-aakash" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/skyaque" target="blank"><img src="https://img.shields.io/twitter/follow/skyaque?logo=twitter&style=for-the-badge" alt="skyaque" /></a> </p>
 
 - 🌱 I’m currently learning **React**
 
