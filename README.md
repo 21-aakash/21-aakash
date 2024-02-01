@@ -2,11 +2,11 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Full-Stack-Development**
 
-- 👯 I’m looking to collaborate on **frontend projects**
+- 👯 I’m looking to collaborate on **Frontend projects**
 
-- 💬 Ask me about **C++, Data Structures and Algorithms**
+- 💬 Ask me about **C++, Data Structures and Algorithms, MERN**
 
 - 📫 How to reach me **tembhareaakash@gmail.com**
 
