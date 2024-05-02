@@ -16,7 +16,7 @@
 <a href="https://linkedin.com/in/www.linkedin.com/in/aakash-tembhare-5491031aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/aakash-tembhare-5491031aa" height="30" width="40" /></a>
 <a href="https://instagram.com/skyaque" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="skyaque" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/21-aakash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="21-aakash" height="30" width="40" /></a>
-<a href="https://www.naukri.com/code360/profile/skyque"> <img src="https://asset.brandfetch.io/idQVGbrvGL/idhgFUNid6.svg" alt="codestudio" width="60" height="60"/> </a>
+<a href="https://www.naukri.com/code360/profile/skyque"> <img src="[https://asset.brandfetch.io/idQVGbrvGL/idhgFUNid6.svg](https://images.app.goo.gl/pN6BoHevxmXmuppd6)" alt="codestudio" width="60" height="60"/> </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
