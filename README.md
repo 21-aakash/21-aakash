@@ -23,7 +23,7 @@
   
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
   
-  <a href="https://www.naukri.com/code360/profile/skyque"> <img src="https://asset.brandfetch.io/idQVGbrvGL/idhgFUNid6.svg" alt="postman" width="40" height="40"/> </a>
+  <a href="https://www.naukri.com/code360/profile/skyque"> <img src="https://asset.brandfetch.io/idQVGbrvGL/idhgFUNid6.svg" alt="codestudio" width="100" height="100"/> </a>
   
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
