@@ -1,7 +1,7 @@
 <h1 align="center">Hello World! 👋 I'm Aakash Tembhare</h1>
 <h3 align="center">Your friendly neighborhood MERN developer from India 🇮🇳</h3>
 
-- 🌱 I’m currently growing my skills in *MERN-Stack-Development* (Yes, I'm cultivating JavaScript like a plant-based miracle).
+- 🌱 I’m currently growing my skills in *Full-Stack-Development* (Yes, I'm cultivating JavaScript like a plant-based miracle).
   
 - 🕺 I’m seeking dance partners for some cool *Frontend projects* (No actual dancing required, but creativity is a must).
 
