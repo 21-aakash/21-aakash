@@ -1,13 +1,11 @@
-<h1 align="center">Hello World! 👋 I'm Aakash Tembhare</h1>
-<h3 align="center">Your friendly neighborhood MERN developer from India 🇮🇳</h3>
+<h1 align="center">Hello World! 👋 Aakash Tembhare</h1>
+<h3 align="center">Your friendly neighborhood GenAI , MERN, JAVA developer from India 🇮🇳</h3>
 
-- 🌱 I’m currently growing my skills in *Full-Stack-Development* (Yes, I'm cultivating JavaScript like a plant-based miracle).
+- 🌱 currently growing my skills in GenAI , llms, Integrations.
   
-- 🕺 I’m seeking dance partners for some cool *Frontend projects* (No actual dancing required, but creativity is a must).
-
-- 💬 Ask me anything about *C++, Data Structures and Algorithms, or MERN* (or why JavaScript is like a box of chocolates).
-
-- 📫 Want to talk code, life, or secret recipes? Reach me at *tembhareaakash@gmail.com* (I'm usually online, even at 3 AM).
+- 🕺 seeking dance partners for some cool *AL-ML GenAI Projects*
+- 
+- 📫 Want to talk code, life, or secret recipes? Reach me at *tembhareaakash@gmail.com* 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
