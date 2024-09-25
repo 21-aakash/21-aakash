@@ -1,10 +1,10 @@
 <h1 align="center">Hi Folks 👋 I'm Aakash Tembhare</h1>
-<h3 align="center">Your friendly neighborhood GenAI , MERN, JAVA developer from India 🇮🇳</h3>
+<h3 align="center">Your friendly neighborhood GenAI , MERN, JAVA developer from India </h3>
 
 - 🌱 currently growing my skills in GenAI , llms, Integrations.
   
 - 🕺 seeking dance partners for some cool *AL-ML GenAI Projects*
-- 
+  
 - 📫 Want to talk code, life, or secret recipes? Reach me at *tembhareaakash@gmail.com* 
 
 <h3 align="left">Connect with me:</h3>
