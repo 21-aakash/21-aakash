@@ -1,4 +1,4 @@
-<h1 align="center">Hello World! 👋 Aakash Tembhare</h1>
+<h1 align="center">Hi Folks 👋 I'm Aakash Tembhare</h1>
 <h3 align="center">Your friendly neighborhood GenAI , MERN, JAVA developer from India 🇮🇳</h3>
 
 - 🌱 currently growing my skills in GenAI , llms, Integrations.
