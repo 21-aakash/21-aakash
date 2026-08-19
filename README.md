@@ -39,16 +39,16 @@
 
 ---
 
-### 🌟 Featured Projects & Consolidated Hubs
+### 🌟 Featured Projects & Flagship Applications
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
+| **[Autonomous Refund Agent](https://github.com/21-aakash/autonomous-refund-agent)** | Enterprise-grade refund & dispute resolution agent with deterministic policy engine and HITL escalation. | `FastAPI`, `LangGraph`, `Pydantic`, `Docker` |
+| **[Autonomous Deep Research Agent](https://github.com/21-aakash/autonomous-research-agent)** | Multi-step deep research and synthesis agent with iterative search, source validation, and report generation. | `Python`, `LangGraph`, `FastAPI`, `CLI` |
 | **[Agentify MCP Builder](https://github.com/21-aakash/agentify-mcp-builder)** | Tool suite & scaffolding for Model Context Protocol servers and agent tools. | `TypeScript`, `Node.js`, `MCP` |
 | **[Doctor Kube AI](https://github.com/21-aakash/doctor_kube.ai)** | AI-assisted diagnosis and troubleshooting engine for Kubernetes clusters. | `Python`, `LangGraph`, `K8s` |
-| **[ProteinKart MCP Toolkit](https://github.com/21-aakash/proteinkart-mcp)** | Custom agent tool suite utilizing Model Context Protocol and Google Agent Development Kit. | `Python`, `Google ADK`, `MCP` |
 | **[GenAI Cookbooks & Experiments](https://github.com/21-aakash/genai-cookbooks-and-experiments)** | Master monorepo containing 19+ curated RAG architectures, LangGraph agents, and fine-tuning labs. | `Python`, `LangGraph`, `RAG`, `Neo4j` |
 | **[Deep Learning & ML Labs](https://github.com/21-aakash/deeplearning-ml-labs)** | Neural networks from scratch, RNN/LSTM sequence models, MLflow experiment pipelines. | `PyTorch`, `TensorFlow`, `NumPy`, `MLflow` |
-| **[Foundations & Practice Archive](https://github.com/21-aakash/foundations-archive)** | Core computer science fundamentals, DSA challenges, and web architecture foundations. | `Python`, `JavaScript`, `DSA` |
 
 ---
 
