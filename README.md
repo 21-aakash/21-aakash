@@ -42,8 +42,9 @@
 
 ### 🌟 Featured Projects
 
-| Project | Description | Tech Stack |
+| Project | Description | Live / Stack |
 | :--- | :--- | :--- |
+| **[InstaPDF](https://github.com/21-aakash/instapdf)** | Live web application to extract public Instagram carousel slides into high-DPI PDFs & image packages. | [Live Demo](https://instapdf.onrender.com) · `FastAPI`, `curl-cffi`, `img2pdf` |
 | **[Autonomous Refund Agent](https://github.com/21-aakash/autonomous-refund-agent)** | Complete automated refund & dispute customer support agent with policy validation, fraud guardrails, and admin dashboard. | `FastAPI`, `LangGraph`, `SQLAlchemy`, `Docker` |
 | **[Autonomous Deep Research Agent](https://github.com/21-aakash/autonomous-research-agent)** | Multi-agent research assistant with query planning, iterative web/vector search, critic review loops, and a React UI. | `Python`, `LangGraph`, `FastAPI`, `React`, `Qdrant` |
 | **[Nutrino AI](https://github.com/21-aakash/nutrino-ai)** | Full-stack AI nutrition tracker with meal recognition, macro calculator, medical lab report parser, and cross-platform mobile/web UI. | `FastAPI`, `React`, `Capacitor`, `PostgreSQL` |
