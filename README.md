@@ -1,45 +1,65 @@
-# Aakash Tembhare
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,14,35,46,67&height=200&section=header&text=Aakash%20Tembhare&fontSize=52&fontColor=ffffff&animation=twinkling" width="100%" />
 
-AI / ML & Software Engineer with ~2 years of experience building agentic workflows, search/RAG pipelines, and full-stack backend services.
+  <h3>🚀 AI/ML & Software Engineer</h3>
+  <p>Building GenAI systems, custom MCP tools, and scalable web applications.</p>
 
-[LinkedIn](https://linkedin.com/in/aakash-tembhare-5491031aa) · [Email](mailto:tembhareaakash@gmail.com) · [X / Twitter](https://twitter.com/skyaque) · [LeetCode](https://leetcode.com/21-aakash)
-
----
-
-### About Me
-
-- Working primarily with Python, TypeScript, and Java (Spring Boot).
-- Focused on building stateful agent workflows with LangGraph and PydanticAI, Model Context Protocol (MCP) servers, and retrieval systems using Neo4j and vector databases (Milvus, Pinecone).
-- Background in full-stack web applications (React, Next.js, FastAPI, Node.js) and containerized deployments with Docker.
-
----
-
-### Tech Stack
-
-- **Languages:** Python, TypeScript, JavaScript, Java, SQL
-- **AI & Agents:** LangGraph, PydanticAI, LangChain, Google GenAI SDK (ADK), Model Context Protocol (MCP)
-- **Data & Vector Stores:** Milvus, Neo4j, Pinecone, ChromaDB, AstraDB, PostgreSQL, MongoDB
-- **Backend & DevOps:** FastAPI, Flask, Spring Boot, Node.js, Docker, Kubernetes, GCP, Git
+  <p>
+    <a href="https://linkedin.com/in/aakash-tembhare-5491031aa"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:tembhareaakash@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+    <a href="https://twitter.com/skyaque"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+    <a href="https://leetcode.com/21-aakash"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+  </p>
+</div>
 
 ---
 
-### Selected Projects
+### ⚡ Core Focus & What I Do
 
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **[autonomous-refund-agent](https://github.com/21-aakash/autonomous-refund-agent)** | Autonomous refund & dispute processing service with policy validation, fraud scoring, and human escalation. | FastAPI, LangGraph, Pydantic, Docker |
-| **[autonomous-research-agent](https://github.com/21-aakash/autonomous-research-agent)** | Multi-step research tool that plans sub-queries, scrapes sources, and generates citation-backed reports. | Python, LangGraph, FastAPI, CLI |
-| **[agentify-mcp-builder](https://github.com/21-aakash/agentify-mcp-builder)** | Developer scaffolding and tool suite for building Model Context Protocol servers. | TypeScript, Node.js, MCP |
-| **[doctor_kube.ai](https://github.com/21-aakash/doctor_kube.ai)** | Automated diagnosis and troubleshooting tool for Kubernetes cluster workloads. | Python, LangGraph, K8s |
-| **[proteinkart-mcp](https://github.com/21-aakash/proteinkart-mcp)** | Agent tools leveraging the Model Context Protocol and Google Agent Development Kit. | Python, Google ADK, MCP |
-| **[genai-cookbooks-and-experiments](https://github.com/21-aakash/genai-cookbooks-and-experiments)** | Collection of hands-on RAG architectures, LangGraph agent experiments, and fine-tuning scripts. | Python, LangGraph, Neo4j, RAG |
-| **[foundations-archive](https://github.com/21-aakash/foundations-archive)** | Practice implementations covering data structures, algorithms, and core language fundamentals. | Python, JavaScript, DSA |
+- 🤖 **Agentic AI & MCP Systems:** Designing stateful agent workflows using **LangGraph**, **PydanticAI**, and building **Model Context Protocol (MCP)** tool ecosystems.
+- 🧠 **RAG & Knowledge Graphs:** Advanced retrieval pipelines (hybrid search, GraphRAG with **Neo4j**, vector search with **Milvus / AstraDB / Pinecone**) and LLM integrations via **Google GenAI SDK (ADK)** & **LangChain**.
+- 💻 **Software Engineering & Web:** High-performance web applications and backend microservices built with **Python (FastAPI / Flask)**, **Java (Spring Boot)**, and modern frontend frameworks (**React / Next.js**, **TypeScript**).
 
 ---
 
-### GitHub Activity
+### 🛠️ Tech Stack & Tooling
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=21-aakash&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=21-aakash&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
+  <img src="https://skillicons.dev/icons?i=python,ts,js,java,react,nextjs,nodejs,fastapi,spring,docker,kubernetes,gcp,postgres,mongodb,git&perline=8" alt="Tech Stack" />
+</div>
+
+<br/>
+
+| Domain | Technologies |
+| :--- | :--- |
+| **Generative AI & Agents** | LangGraph, PydanticAI, LangChain, Google GenAI SDK (ADK), MCP (Model Context Protocol), Ollama, Hugging Face |
+| **Vector DBs & Knowledge Graphs** | Milvus, Neo4j, Pinecone, ChromaDB, AstraDB, FAISS |
+| **Backend & Cloud** | Python (FastAPI/Flask), Node.js, Spring Boot, GCP, Docker, Kubernetes, PostgreSQL, MongoDB |
+| **Frontend & UI** | TypeScript, React.js, Next.js, TailwindCSS, GSAP |
+
+---
+
+### 🌟 Featured Projects & Flagship Applications
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[Autonomous Refund Agent](https://github.com/21-aakash/autonomous-refund-agent)** | Enterprise-grade refund & dispute resolution agent with deterministic policy engine and HITL escalation. | `FastAPI`, `LangGraph`, `Pydantic`, `Docker` |
+| **[Autonomous Deep Research Agent](https://github.com/21-aakash/autonomous-research-agent)** | Multi-step deep research and synthesis agent with iterative search, source validation, and report generation. | `Python`, `LangGraph`, `FastAPI`, `CLI` |
+| **[Agentify MCP Builder](https://github.com/21-aakash/agentify-mcp-builder)** | Tool suite & scaffolding for Model Context Protocol servers and agent tools. | `TypeScript`, `Node.js`, `MCP` |
+| **[Doctor Kube AI](https://github.com/21-aakash/doctor_kube.ai)** | AI-assisted diagnosis and troubleshooting engine for Kubernetes clusters. | `Python`, `LangGraph`, `K8s` |
+| **[ProteinKart MCP Toolkit](https://github.com/21-aakash/proteinkart-mcp)** | Custom agent tool suite utilizing Model Context Protocol and Google Agent Development Kit. | `Python`, `Google ADK`, `MCP` |
+| **[Foundations & Practice Archive](https://github.com/21-aakash/foundations-archive)** | Core computer science fundamentals, DSA challenges, and web architecture foundations. | `Python`, `JavaScript`, `DSA` |
+
+---
+
+### 📊 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=21-aakash&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=21-aakash&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Langs" />
+</div>
+
+---
+<div align="center">
+  <sub>Let's build something remarkable together. Feel free to reach out for collaborations and AI discussions!</sub>
 </div>
