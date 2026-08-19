@@ -48,18 +48,14 @@
 | **[Agentify MCP Builder](https://github.com/21-aakash/agentify-mcp-builder)** | Tool suite & scaffolding for Model Context Protocol servers and agent tools. | `TypeScript`, `Node.js`, `MCP` |
 | **[Doctor Kube AI](https://github.com/21-aakash/doctor_kube.ai)** | AI-assisted diagnosis and troubleshooting engine for Kubernetes clusters. | `Python`, `LangGraph`, `K8s` |
 | **[ProteinKart MCP Toolkit](https://github.com/21-aakash/proteinkart-mcp)** | Custom agent tool suite utilizing Model Context Protocol and Google Agent Development Kit. | `Python`, `Google ADK`, `MCP` |
+| **[GenAI Cookbooks & Experiments](https://github.com/21-aakash/genai-cookbooks-and-experiments)** | Master monorepo containing 19+ curated RAG architectures, LangGraph agents, and fine-tuning labs. | `Python`, `LangGraph`, `RAG`, `Neo4j` |
+| **[Deep Learning & ML Labs](https://github.com/21-aakash/deeplearning-ml-labs)** | Neural networks from scratch, RNN/LSTM sequence models, MLflow experiment pipelines. | `PyTorch`, `TensorFlow`, `NumPy`, `MLflow` |
 | **[Foundations & Practice Archive](https://github.com/21-aakash/foundations-archive)** | Core computer science fundamentals, DSA challenges, and web architecture foundations. | `Python`, `JavaScript`, `DSA` |
 
 ---
 
-### 📊 GitHub Activity
+### 📈 GitHub Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=21-aakash&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=21-aakash&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Langs" />
-</div>
-
----
-<div align="center">
-  <sub>Let's build something remarkable together. Feel free to reach out for collaborations and AI discussions!</sub>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=21-aakash&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
