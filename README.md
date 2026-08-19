@@ -46,6 +46,7 @@
 | :--- | :--- | :--- |
 | **[Autonomous Refund Agent](https://github.com/21-aakash/autonomous-refund-agent)** | Complete automated refund & dispute customer support agent with policy validation, fraud guardrails, and admin dashboard. | `FastAPI`, `LangGraph`, `SQLAlchemy`, `Docker` |
 | **[Autonomous Deep Research Agent](https://github.com/21-aakash/autonomous-research-agent)** | Multi-agent research assistant with query planning, iterative web/vector search, critic review loops, and a React UI. | `Python`, `LangGraph`, `FastAPI`, `React`, `Qdrant` |
+| **[Nutrino AI](https://github.com/21-aakash/nutrino-ai)** | Full-stack AI nutrition tracker with meal recognition, macro calculator, medical lab report parser, and cross-platform mobile/web UI. | `FastAPI`, `React`, `Capacitor`, `PostgreSQL` |
 | **[Agentify MCP Builder](https://github.com/21-aakash/agentify-mcp-builder)** | Tool suite & scaffolding for Model Context Protocol servers and agent tools. | `TypeScript`, `Node.js`, `MCP` |
 | **[Doctor Kube AI](https://github.com/21-aakash/doctor_kube.ai)** | Automated diagnosis and troubleshooting engine for Kubernetes cluster workloads. | `Python`, `LangGraph`, `K8s` |
 | **[ProteinKart MCP Toolkit](https://github.com/21-aakash/proteinkart-mcp)** | Custom agent tool suite utilizing Model Context Protocol and Google Agent Development Kit. | `Python`, `Google ADK`, `MCP` |
