@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:090d16,40:0e172a,100:020617&height=220&section=header&text=AAKASH%20TEMBHARE&fontSize=54&fontColor=38bdf8&fontAlignY=42&desc=SYSTEMS%20%2F%2F%20AUTONOMOUS%20AGENTS%20%2F%2F%20DISTRIBUTED%20AI&descSize=14&descAlignY=65&descAlign=50&stroke=38bdf8&strokeWidth=1" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:090d16,40:0e172a,100:020617&height=210&section=header&text=AAKASH%20TEMBHARE&fontSize=52&fontColor=38bdf8&fontAlignY=42&desc=AI%20%2F%20ML%20ENGINEER%20%E2%80%A2%20BUILDING%20THINGS%20THAT%20ACTUALLY%20WORK&descSize=14&descAlignY=65&descAlign=50&stroke=38bdf8&strokeWidth=1" width="100%" />
 
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&height=40&lines=%3E+Building+autonomous+agent+loops+%26+MCP+ecosystems;%3E+Architecting+GraphRAG+%26+vector+search+pipelines;%3E+Engineering+production-grade+AI+backends+%26+systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&height=40&lines=%3E+80%25+building+AI+agents%2C+20%25+fighting+.env+files;%3E+turning+coffee+into+LangGraph+state+machines;%3E+making+LLMs+do+useful+things+without+hallucinating;%3E+building+MCP+tools+so+my+terminal+talks+back" alt="Typing SVG" />
   </p>
 
   <p>
@@ -15,15 +15,15 @@
 
 ---
 
-### ⚡ Core Focus & What I Do
+### ⚡ What I'm Actually Doing
 
-- 🤖 **Agentic AI & MCP Systems:** Designing stateful agent workflows using **LangGraph**, **PydanticAI**, and building **Model Context Protocol (MCP)** tool ecosystems.
-- 🧠 **RAG & Knowledge Graphs:** Advanced retrieval pipelines (hybrid search, GraphRAG with **Neo4j**, vector search with **Milvus / AstraDB / Pinecone**) and LLM integrations via **Google GenAI SDK (ADK)** & **LangChain**.
-- 💻 **Software Engineering & Web:** High-performance web applications and backend microservices built with **Python (FastAPI / Flask)**, **Java (Spring Boot)**, and modern frontend frameworks (**React / Next.js**, **TypeScript**).
+- 🤖 **Agentic Workflows & MCP:** Building stateful multi-agent loops with **LangGraph** and **PydanticAI**, and creating **Model Context Protocol (MCP)** tools.
+- 🧠 **RAG & Search:** Setting up hybrid vector search (**Milvus**, **Pinecone**, **AstraDB**) and GraphRAG with **Neo4j** so LLMs give real answers instead of guessing.
+- 💻 **Full-Stack & Backend:** Writing clean APIs and services in **Python (FastAPI / Flask)**, **Java (Spring Boot)**, and frontend in **React / Next.js / TypeScript**.
 
 ---
 
-### 🛠️ Tech Stack & Tooling
+### 🛠️ Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,ts,js,java,react,nextjs,nodejs,fastapi,spring,docker,kubernetes,gcp,postgres,mongodb,git&perline=8" alt="Tech Stack" />
@@ -40,14 +40,14 @@
 
 ---
 
-### 🌟 Featured Projects & Flagship Applications
+### 🌟 Featured Projects
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Autonomous Refund Agent](https://github.com/21-aakash/autonomous-refund-agent)** | Enterprise-grade refund & dispute resolution agent with deterministic policy engine and HITL escalation. | `FastAPI`, `LangGraph`, `Pydantic`, `Docker` |
-| **[Autonomous Deep Research Agent](https://github.com/21-aakash/autonomous-research-agent)** | Multi-step deep research and synthesis agent with iterative search, source validation, and report generation. | `Python`, `LangGraph`, `FastAPI`, `CLI` |
+| **[Autonomous Refund Agent](https://github.com/21-aakash/autonomous-refund-agent)** | Complete automated refund & dispute customer support agent with policy validation, fraud guardrails, and admin dashboard. | `FastAPI`, `LangGraph`, `SQLAlchemy`, `Docker` |
+| **[Autonomous Deep Research Agent](https://github.com/21-aakash/autonomous-research-agent)** | Multi-agent research assistant with query planning, iterative web/vector search, critic review loops, and a React UI. | `Python`, `LangGraph`, `FastAPI`, `React`, `Qdrant` |
 | **[Agentify MCP Builder](https://github.com/21-aakash/agentify-mcp-builder)** | Tool suite & scaffolding for Model Context Protocol servers and agent tools. | `TypeScript`, `Node.js`, `MCP` |
-| **[Doctor Kube AI](https://github.com/21-aakash/doctor_kube.ai)** | AI-assisted diagnosis and troubleshooting engine for Kubernetes clusters. | `Python`, `LangGraph`, `K8s` |
+| **[Doctor Kube AI](https://github.com/21-aakash/doctor_kube.ai)** | Automated diagnosis and troubleshooting engine for Kubernetes cluster workloads. | `Python`, `LangGraph`, `K8s` |
 | **[ProteinKart MCP Toolkit](https://github.com/21-aakash/proteinkart-mcp)** | Custom agent tool suite utilizing Model Context Protocol and Google Agent Development Kit. | `Python`, `Google ADK`, `MCP` |
 | **[GenAI Cookbooks & Experiments](https://github.com/21-aakash/genai-cookbooks-and-experiments)** | Master monorepo containing 19+ curated RAG architectures, LangGraph agents, and fine-tuning labs. | `Python`, `LangGraph`, `RAG`, `Neo4j` |
 | **[Deep Learning & ML Labs](https://github.com/21-aakash/deeplearning-ml-labs)** | Neural networks from scratch, RNN/LSTM sequence models, MLflow experiment pipelines. | `PyTorch`, `TensorFlow`, `NumPy`, `MLflow` |
