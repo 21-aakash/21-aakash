@@ -1,8 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,14,35,46,67&height=200&section=header&text=Aakash%20Tembhare&fontSize=52&fontColor=ffffff&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:090d16,40:0e172a,100:020617&height=220&section=header&text=AAKASH%20TEMBHARE&fontSize=54&fontColor=38bdf8&fontAlignY=42&desc=SYSTEMS%20%2F%2F%20AUTONOMOUS%20AGENTS%20%2F%2F%20DISTRIBUTED%20AI&descSize=14&descAlignY=65&descAlign=50&stroke=38bdf8&strokeWidth=1" width="100%" />
 
-  <h3>🚀 AI/ML & Software Engineer</h3>
-  <p>Building GenAI systems, custom MCP tools, and scalable web applications.</p>
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&height=40&lines=%3E+Building+autonomous+agent+loops+%26+MCP+ecosystems;%3E+Architecting+GraphRAG+%26+vector+search+pipelines;%3E+Engineering+production-grade+AI+backends+%26+systems" alt="Typing SVG" />
+  </p>
 
   <p>
     <a href="https://linkedin.com/in/aakash-tembhare-5491031aa"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
