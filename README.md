@@ -44,11 +44,11 @@
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **[Agentify MCP Builder](https://github.com/21-aakash/agentify-mcp-builder)** | Tool suite & scaffolding for Model Context Protocol servers and agent tools. | `TypeScript`, `Node.js`, `MCP` |
-| **[GenAI Cookbooks & Experiments](https://github.com/21-aakash/genai-cookbooks-and-experiments)** | Master monorepo containing 19+ curated RAG architectures, LangGraph agents, and fine-tuning labs. | `Python`, `LangGraph`, `RAG`, `Neo4j` |
 | **[Doctor Kube AI](https://github.com/21-aakash/doctor_kube.ai)** | AI-assisted diagnosis and troubleshooting engine for Kubernetes clusters. | `Python`, `LangGraph`, `K8s` |
+| **[ProteinKart MCP Toolkit](https://github.com/21-aakash/proteinkart-mcp)** | Custom agent tool suite utilizing Model Context Protocol and Google Agent Development Kit. | `Python`, `Google ADK`, `MCP` |
+| **[GenAI Cookbooks & Experiments](https://github.com/21-aakash/genai-cookbooks-and-experiments)** | Master monorepo containing 19+ curated RAG architectures, LangGraph agents, and fine-tuning labs. | `Python`, `LangGraph`, `RAG`, `Neo4j` |
 | **[Deep Learning & ML Labs](https://github.com/21-aakash/deeplearning-ml-labs)** | Neural networks from scratch, RNN/LSTM sequence models, MLflow experiment pipelines. | `PyTorch`, `TensorFlow`, `NumPy`, `MLflow` |
-| **[Paisa.ai](https://github.com/21-aakash/paisa.ai)** | Intelligent financial analysis & advisory assistant with automated insights. | `Next.js`, `FastAPI`, `LLMs` |
-| **[Narratix.ai](https://github.com/21-aakash/narratix.ai)** | Multi-modal generative AI storytelling and document reasoning platform. | `React`, `Python`, `GenAI` |
+| **[Foundations & Practice Archive](https://github.com/21-aakash/foundations-archive)** | Core computer science fundamentals, DSA challenges, and web architecture foundations. | `Python`, `JavaScript`, `DSA` |
 
 ---
 
